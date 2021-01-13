@@ -5,7 +5,7 @@
   <groupId>org.aspectj</groupId>
   <artifactId>aspectjmatcher</artifactId>
   <packaging>jar</packaging>
-  <version>1.9.6-sgg1</version>
+  <version>1.9.6.BUILD-SNAPSHOT</version>
   <name>AspectJ matcher</name>
   <description>The AspectJ matcher can be used for matching pointcuts</description>
   <url>http://www.aspectj.org</url>
