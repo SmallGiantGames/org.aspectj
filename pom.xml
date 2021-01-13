@@ -139,4 +139,12 @@
 		</dependency>
 	</dependencies>
 
+	<distributionManagement>
+		<repository>
+			<id>sgg-nexus-thirdparty</id>
+			<name>SGG Nexus 3rd party</name>
+			<url>https://nexus.smallgiantgames.com/nexus/content/repositories/thirdparty/</url>
+		</repository>
+	</distributionManagement>
+
 </project>
